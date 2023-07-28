@@ -6,9 +6,9 @@ import org.openqa.selenium.support.PageFactory;
 import utilities.Driver;
 
 public class Page {
-    public Page(){
-        PageFactory.initElements(Driver.getDriver(),this);
-    }
+//son degisiklik
+
+
 
 
     //Beyza Çolak 14-54 satır arası
@@ -283,7 +283,7 @@ public class Page {
 
     // Bergüzar Zeynep Ölmez 284-329 arası
 
-
+//guncel yazi
 
 
 
