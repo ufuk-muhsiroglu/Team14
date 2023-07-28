@@ -284,6 +284,7 @@ public class Page {
     // Bergüzar Zeynep Ölmez 284-329 arası
 
 //guncel yazi
+    //yen' değ'ş'kl'k
 
 
 
