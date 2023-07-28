@@ -236,12 +236,12 @@ public class Page {
 
 
     // Ahmet Bedir 238-283 arası
-
-
-
-
-
-
+    @FindBy(xpath = "(//input)[1]")
+    public WebElement signUsername;
+    @FindBy(xpath = "(//input)[2]")
+    public WebElement signPassword;
+    @FindBy(xpath = "(//button)[1]")
+    public WebElement signInButton;
 
 
 
